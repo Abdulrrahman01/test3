@@ -22,7 +22,7 @@ upButton.onclick = function () {
 // Countdown Timer
 // -----------------------------------------------------------------------
 
-let countDownDate = new Date('31 aug, 2022').getTime();
+let countDownDate = new Date('31 dec, 2022').getTime();
 
 let counter = setInterval(() => {
     
